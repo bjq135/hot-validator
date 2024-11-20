@@ -1,0 +1,23 @@
+{
+  "name": "hot-validator",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "bjq135",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjq135/hot-validator"
+  },
+  "keywords": [
+    "validator",
+    "validation",
+    "validate"
+  ]
+}
